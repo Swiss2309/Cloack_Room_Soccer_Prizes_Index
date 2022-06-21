@@ -5,16 +5,17 @@ i- active senior professional football players (reference is season 2021/2022 at
 ii- Clubs for which they play, and
 iii- Nations for which they play.
 
-Moreover it provides a "Prominence Score" of the players based on a formula that uses both their "Age" and their aforementioned Palmares a.k.a "Prizes Index".   
+Moreover it provides a "Prominence Score" of the players based on a formula (Promince is a function with "Prizes Index" and "Age" in the nomiator and "Age" squared in the denominator - as a pattern)  that uses both their "Age" and their aforementioned Palmares a.k.a "Prizes Index". 
+
+Machine Learning techniques have been applied to the function to opimize it so that the final prominence is having a very low variance)
  
-# Scope of collected Data 
+# Scope and source of collected Data 
 
 2021/2022 season (2nd Half; i.e post-winter Transfer Window) following squads : PSG, MCY, RM, LIV, CHE, BYM, FCB, ATM, MU, JUV, MIL, INT, OL, ARS, NAP, BVB, TOT, LOSC, ASM, OM, ATL, and BL.         
 
 Data Sources = Wikipedia English.
 
 
-
-
-
 P.S : None of the collected players has won an Asian Nations Cup, hence the absence of the Title from the analysis.
+
+
