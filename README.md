@@ -13,10 +13,10 @@ Machine Learning techniques (I know it can be simplified in saying - Statistical
 
 2021/2022 season (2nd Half; i.e post-winter Transfer Window) following squads : PSG, MCY, RM, LIV, CHE, BYM, FCB, ATM, MU, JUV, MIL, INT, OL, ARS, NAP, BVB, TOT, LOSC, ASM, OM, ATL, and BL.         
 
-Data Sources = Wikipedia English.
+Data Source = Wikipedia English.
 
 
-P.S : None of the collected players has won an Asian Nations Cup, hence the absence of the Title from the analysis.
+P.S : None of the collected players have won an Asian Nations Cup, hence the absence of the Title from the analysis.
 
 
 # Approach
