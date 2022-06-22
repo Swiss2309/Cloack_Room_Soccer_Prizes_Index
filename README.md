@@ -24,5 +24,5 @@ Custom Weights used in probabilistic expressions.
 
 # Insights
 
-[Results](https://www.dropbox.com/sh/e0disjr3p93ypk3/AABEH6hAThpmgRF-A81z9bDta?dl=0)
+[Full results of both models M1 and M2](https://www.dropbox.com/sh/e0disjr3p93ypk3/AABh5YPoOQoxr0RAqF20eSrsa/Cloack-Room%20Prizes%20Index?dl=0&subfolder_nav_tracking=1)
 
