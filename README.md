@@ -44,6 +44,14 @@ ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most discenring res
 
 **M2** <br /><br />
 
+![M2_Players_Score_Age](https://user-images.githubusercontent.com/107439799/175093076-52dd85df-e9ac-423f-89b2-b312b8a00a84.png)
+
+![M2_Clubs_Score_Age](https://user-images.githubusercontent.com/107439799/175093139-33b48f25-be98-4863-883c-9c4679fa544e.png)
+
+![M2_Nations_Score_Age](https://user-images.githubusercontent.com/107439799/175093219-e0196a75-1b6d-469f-8179-130e76a53320.png)
+
+![M2_Players_Prom_Age](https://user-images.githubusercontent.com/107439799/175093297-d3fa12a7-2a67-4383-97a6-02fa612e3ce4.png)
+
 
 
 [Full results of both models M1 and M2](https://www.dropbox.com/sh/e0disjr3p93ypk3/AABh5YPoOQoxr0RAqF20eSrsa/Cloack-Room%20Prizes%20Index?dl=0&subfolder_nav_tracking=1)
