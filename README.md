@@ -1,9 +1,9 @@
 # Abstract
 
 Python-written capability classifying - on different levels of Metrics : <br /> <br />
-i- <ins>Active senior professional football players </ins> (reference is season 2021/2022 at its end post Champions's League Final - not taking into account their retirement decision neither transfer for the next season)  having won at least one Prestigious Major Title (Chamipons's League, Nations World Cup, Nations Traditional European Championship, Nations Copa América (excluding Copa América Centenario), and Africa Cup of Nations) <br /><br />
-ii- Clubs for which they play, and <br /><br />
-iii- Nations for which they play. <br /><br />
+i- <ins> Active senior professional football players </ins> (reference is season 2021/2022 at its end post Champions's League Final - not taking into account their retirement decision neither transfer for the next season)  having won at least one Prestigious Major Title (Chamipons's League, Nations World Cup, Nations Traditional European Championship, Nations Copa América (excluding Copa América Centenario), and Africa Cup of Nations) <br /><br />
+ii- <ins> Clubs for which they play </ins>, and <br /><br />
+iii- <ins> Nations for which they play </ins>. <br /><br />
 
 Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. 
 
