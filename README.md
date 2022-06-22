@@ -1,11 +1,11 @@
 # Abstract
 
-Python-written capability classifying : <br /> <br />
+Python-written capability classifying - on different levels of Metrics : <br /> <br />
 i- Active senior professional football players (reference is season 2021/2022 at its end post Champions's League Final - not taking into account their retirement decision neither transfer for the next season)  having won at least one Prestigious Major Title (Chamipons's League, Nations World Cup, Nations Traditional European Championship, Nations Copa América (excluding Copa América Centenario), and Africa Cup of Nations) <br /><br />
 ii- Clubs for which they play, and <br /><br />
 iii- Nations for which they play. <br /><br />
 
-Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a pattern)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. 
+Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. 
 
 Machine Learning techniques (I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000)
  
@@ -21,9 +21,11 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 # Approach
 
-
-Custom Weights used in probabilistic expressions.
-Custom Distribution - Loading Weighted Data.
+- each player from the above clubs is being checked whether he'd won any of the covered titles, and how many of each if applies - the result is persisted in an observation (*i.o.w a record with the Player as a driver of the structured Data Points Model*), along with his MetaData; <br /><br />
+- if the checked player hadn't won any - he's not persisted; <br /><br />
+- the records are saved in a CSV file (*that I obviously won't share with you*) <br /><br />
+- a sample Custom-Weights-2-Models (M1 and M2) Coefficients for each of the Titles is being assigned taking into account the complexity of the competition (**Coefs.csv** *file available in the arborescence*) . Note that the **M2** differs from **M1** only by annihilating the Champions's League Title - so assigning 0 to it. This **M2** corresponds then to only **continental prizes**<br /><br />    
+- Off we go with running the Program and obtaining the different results for both models
 
 # Insights
 
