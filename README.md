@@ -7,7 +7,7 @@ iii- Nations for which they play.
 
 Moreover it provides a "Prominence Score" of the collected players based on a formula (Prominence is a function with "Prizes Index" and "Age" in the nomiator and "Age" squared in the denominator - as a pattern)  that uses both their "Age" and aforementioned Palmares a.k.a "Prizes Index". 
 
-Machine Learning techniques (I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays) have been applied to the function to opimize it so that the final prominence is having a very low variance)
+Machine Learning techniques (I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000)
  
 # Scope and source of collected Data 
 
@@ -20,3 +20,4 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 
 # Approach
+Custom Weights used in probabilistic expressions.
