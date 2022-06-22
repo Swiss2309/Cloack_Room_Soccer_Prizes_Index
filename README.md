@@ -5,7 +5,7 @@ i- Active senior professional football players (reference is season 2021/2022 at
 ii- Clubs for which they play, and <br /><br />
 iii- Nations for which they play. <br /><br />
 
-Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with "Prizes Index" and "Age" in the nomiator and "Age" squared in the denominator - as a pattern)  that uses both their "Age" and aforementioned Palmares a.k.a "Prizes Index". 
+Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a pattern)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. 
 
 Machine Learning techniques (I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000)
  
