@@ -21,16 +21,15 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 # Approach
 
-- each player from the above clubs is being checked whether he'd won any of the covered titles, and how many of each if applies - the result is persisted in an observation (*i.o.w a record with the Player as a driver of the structured Data Points Model*), along with his MetaData; <br /><br />
+- every single player from the above clubs is being checked whether he'd won any of the covered titles, and how many of each if applies - the result is persisted in an observation (*i.o.w a record with the Player as a driver of the structured Data Points Model*), along with his MetaData; <br /><br />
 - if the checked player hadn't won any - he's not persisted; <br /><br />
-- the records are saved in a CSV file (*that I obviously won't share with you*) <br /><br />
-- a sample Custom-Weights-2-Models (M1 and M2) Coefficients for each of the Titles is being assigned taking into account the complexity of the competition (**Coefs.csv** *file available in the arborescence*) . Note that the **M2** differs from **M1** only by annihilating the Champions's League Title - so assigning 0 to it. This **M2** corresponds then to only **continental prizes**<br /><br />    
-- Off we go with running the Program and obtaining the different results for both models
+- the records are saved in a CSV file (*that I obviously won't share with you*); <br /><br />
+- a sample Custom-Weights-2-Models (M1 and M2) Coefficients for each of the Titles is being assigned taking into account the complexity of the competition (**Coefs.csv** *file available in the arborescence*). Note that the **M2** differs from **M1** only by annihilating the Champions's League Title - so assigning 0 to it. This **M2** corresponds then to only **continental prizes** ; <br /><br />    
+- Off we go with running the Program and obtaining the different results for both models.
 
 # Insights
 
-Hereunder the most interesting results : <br /><br />
-
+Hereunder the most discenring results (*To my taste*) : <br /><br />
 
 
 [Full results of both models M1 and M2](https://www.dropbox.com/sh/e0disjr3p93ypk3/AABh5YPoOQoxr0RAqF20eSrsa/Cloack-Room%20Prizes%20Index?dl=0&subfolder_nav_tracking=1)
