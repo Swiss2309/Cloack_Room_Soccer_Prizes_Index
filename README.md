@@ -1,7 +1,7 @@
 # Abstract
 
 Python-written capability classifying : 
-i- active senior professional football players (reference is season 2021/2022 at its end post Champions's League Final - not taking into account their retirement decision neither transfer for the next season)  having won at least one Prestigious Major Title (Chamipons's League, Nations World Cup, Nations Traditional European Championship, Nations Copa América (excluding Copa América Centenario), and Africa Cup of Nations)
+<u>i- active senior professional football players</u> (reference is season 2021/2022 at its end post Champions's League Final - not taking into account their retirement decision neither transfer for the next season)  having won at least one Prestigious Major Title (Chamipons's League, Nations World Cup, Nations Traditional European Championship, Nations Copa América (excluding Copa América Centenario), and Africa Cup of Nations)
 ii- Clubs for which they play, and
 iii- Nations for which they play.
 
@@ -20,7 +20,11 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 
 # Approach
+
+
+
 Custom Weights used in probabilistic expressions.
+Custom Distribution - Loading Weighted Data.
 
 # Insights
 
