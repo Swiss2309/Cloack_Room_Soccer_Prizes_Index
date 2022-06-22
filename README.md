@@ -31,6 +31,11 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most discenring results (*To my taste*) : <br /><br />
 
+**M1** <br /><br />
+
+
+**M2** <br /><br />
+
 
 [Full results of both models M1 and M2](https://www.dropbox.com/sh/e0disjr3p93ypk3/AABh5YPoOQoxr0RAqF20eSrsa/Cloack-Room%20Prizes%20Index?dl=0&subfolder_nav_tracking=1)
 
