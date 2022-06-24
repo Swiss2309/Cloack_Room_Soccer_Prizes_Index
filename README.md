@@ -43,7 +43,7 @@ ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical disce
 
 ![M1_Players_Prom_Age](https://user-images.githubusercontent.com/107439799/175091901-e837d843-cc74-44da-959c-818c1402db52.png)
 
-Below is the 33 most prospect players (33 = 3 * 11 - i.e 3 Teams) <br /><br />
+Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br /><br />
 
 <img width="33%" alt="33 first prominent players" src="https://user-images.githubusercontent.com/107439799/175644844-e49dc595-c37f-42d0-8a78-889285202092.png">
 
@@ -58,7 +58,7 @@ Below is the 33 most prospect players (33 = 3 * 11 - i.e 3 Teams) <br /><br />
 
 ![M2_Players_Prom_Age](https://user-images.githubusercontent.com/107439799/175093297-d3fa12a7-2a67-4383-97a6-02fa612e3ce4.png)
 
-Below is the 33 most prospect players (33 = 3 * 11 - i.e 3 Teams) <br /><br />
+Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br /><br />
 
 <img width="33%" alt="33 first prominent players" src="https://user-images.githubusercontent.com/107439799/175647347-416a35dc-112c-4236-92cf-2414907d3057.png">
 
