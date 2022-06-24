@@ -8,7 +8,7 @@ iii- <ins> Nations for which they play </ins>. <br /><br />
 
 Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. 
 
-Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays*) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second - that had not the same constellation of titles neither the same age - so un-biaised in nature)
+Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays*) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second - that had not the same constellation of titles neither the same age - so un-biaised in nature - c.f the Table just underneath the Prominence Graph)
 
 
 # Scope and source of collected Data 
@@ -42,6 +42,8 @@ ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical disce
 ![M1_Nations_Score_Age](https://user-images.githubusercontent.com/107439799/175090934-ccfc188e-7543-49cd-a1b1-d2091a58b4e1.png)
 
 ![M1_Players_Prom_Age](https://user-images.githubusercontent.com/107439799/175091901-e837d843-cc74-44da-959c-818c1402db52.png)
+
+Below is the 33 most prospect players (33 = 3 * 11 - i.e 3 Teams) <br /><br />
 
 <img width="33%" alt="33 first prominent players" src="https://user-images.githubusercontent.com/107439799/175644844-e49dc595-c37f-42d0-8a78-889285202092.png">
 
