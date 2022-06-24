@@ -44,7 +44,7 @@ ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical disce
 ![M1_Players_Prom_Age](https://user-images.githubusercontent.com/107439799/175091901-e837d843-cc74-44da-959c-818c1402db52.png)
 
 
-<img width="331" alt="Screenshot 2022-06-24 at 8 33 39 pm" src="https://user-images.githubusercontent.com/107439799/175644844-e49dc595-c37f-42d0-8a78-889285202092.png">
+<img width="331" align="center" alt="Screenshot 2022-06-24 at 8 33 39 pm" src="https://user-images.githubusercontent.com/107439799/175644844-e49dc595-c37f-42d0-8a78-889285202092.png">
 
 
 **M2** <br /><br />
