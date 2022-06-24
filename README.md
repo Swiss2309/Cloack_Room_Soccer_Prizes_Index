@@ -7,7 +7,7 @@ iii- <ins> Nations for which they play </ins>. <br /><br />
 
 Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. 
 
-Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays*) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000)
+Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays*) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second)
  
 # Scope and source of collected Data 
 
@@ -21,11 +21,11 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 # Approach
 
-- every single player from the above clubs is being checked whether he'd won any of the covered titles, and how many of each if applies - the result is persisted in an observation (*i.o.w a record with the Player as a driver of the structured Data Points Model*), along with his MetaData; <br /><br />
+- every single player from the above clubs is being checked whether he'd won any of the covered Honours, and how many of each if applies - the result is persisted in an observation (*i.o.w a record with the Player as a driver of the structured Data Points Model*), along with his MetaData; <br /><br />
 - if the checked player hadn't won any - he's not persisted; <br /><br />
 - the records are saved in a CSV file (*that I obviously won't share with you; neither the above-mentioned formulas btw*); <br /><br />
-- a sample Custom-Weights-2-Models (M1 and M2) Coefficients for each of the Titles is being assigned taking into account the complexity of the competition (**Coefs.csv** *file available in the arborescence*). Note that the **M2** differs from **M1** only by annihilating the Champions's League Title - so assigning 0 to it. This **M2** corresponds then to only **continental prizes** ; <br /><br />    
-- Off we go with running the Program and obtaining the different results for both models.
+- a sample Custom-Weights-2-Models (*M1 and M2*) coefficients for each of the Titles is being assigned taking into account the complexity of the competition - Sorry Sadio and fellows - (**Coefs.csv** *file available in the arborescence*). Note that the **M2** differs from **M1** only by annihilating the Champions's League Title - so assigning 0 to it. This **M2** corresponds then to only **continental prizes** ; <br /><br />    
+- Off we go with running the code and obtaining the different results for both models.
 
 # Insights
 
