@@ -13,7 +13,7 @@ Machine Learning techniques (*I know it can be simplified in saying - Statistica
 
 # Scope and source of collected Data 
 
-2021/2022 season (*2nd Half; i.e post-winter Transfer Window*) following squads : PSG, OL, LOSC, ASM, OM, MCY, LIV, CHE, MU, ARS, TOT, RM, FCB, ATM, BYM, BVB, BL, JUV, MIL, INT, NAP, and ATL (ATALANTA).         
+2021/2022 season (*2nd Half; i.e post-winter Transfer Window*) following squads : PSG, OL, LOSC, ASM, OM, MCY, LIV, CHE, MU, ARS, TOT, RM, FCB, ATM, BYM, BVB, BL, JUV, MIL, INT, NAP, and ATL (*ATALANTA*).         
 
 Data Source = Wikipedia English.
 
@@ -39,7 +39,7 @@ ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical disce
 
 Note that only **G. PIQUE** hadn't played for **Real Madrid** from above list. <br /><br />
 
-Also - **MESSI** is 15th in the List, preceeded by **MODRIC** (*12th*), **VARANE** (*13th*), and **BUSQUETS** (*14th*) - surprisingly - or not.
+Also - **MESSI** is 15th in the List, preceeded by **MODRIC** (*12th*), **VARANE** (*13th*), and **BUSQUETS** (*14th*) - surprisingly - or not; while **CR7** is 3rd. Period. <br /><br />
 
 ![M1_Clubs_Score_Distribution](https://user-images.githubusercontent.com/107439799/175783072-0048771d-0289-44d2-bb85-04b018a39287.png)
 
