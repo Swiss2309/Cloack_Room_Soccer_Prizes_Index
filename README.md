@@ -37,7 +37,7 @@ ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical disce
 
 ![M1_Players_Score_Age](https://user-images.githubusercontent.com/107439799/175091747-0f2c7483-a27e-49b9-8316-43493b6156ff.png)
 
-Note that only G. PIQUE hadn't played from Real Madrid from above list.
+Note that only G. PIQUE hadn't played from Real Madrid from above list. <br /><br />
 
 ![M1_Clubs_Score_Age](https://user-images.githubusercontent.com/107439799/175090652-92b2ab35-8765-4a18-938b-4611eca9d1c5.png)
 
