@@ -55,9 +55,6 @@ Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br /><br />
 
 ![M2_Players_Score_Age](https://user-images.githubusercontent.com/107439799/175093076-52dd85df-e9ac-423f-89b2-b312b8a00a84.png)
 
-![M2_Clubs_Score_Age](https://user-images.githubusercontent.com/107439799/175093139-33b48f25-be98-4863-883c-9c4679fa544e.png)
-
-![M2_Nations_Score_Age](https://user-images.githubusercontent.com/107439799/175093219-e0196a75-1b6d-469f-8179-130e76a53320.png)
 
 ![M2_Players_Prom_Age](https://user-images.githubusercontent.com/107439799/175093297-d3fa12a7-2a67-4383-97a6-02fa612e3ce4.png)
 
