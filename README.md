@@ -41,6 +41,8 @@ Note that only G. PIQUE hadn't played for Real Madrid from above list. <br /><br
 
 ![M1_Clubs_Score_Age](https://user-images.githubusercontent.com/107439799/175090652-92b2ab35-8765-4a18-938b-4611eca9d1c5.png)
 
+![M1_Clubs_Score_Distribution](https://user-images.githubusercontent.com/107439799/175782735-e95d4288-9ab1-4f49-9363-1b9a09e92ddc.png)
+
 ![M1_Nations_Score_Age](https://user-images.githubusercontent.com/107439799/175090934-ccfc188e-7543-49cd-a1b1-d2091a58b4e1.png)
 
 ![M1_Players_Prom_Age](https://user-images.githubusercontent.com/107439799/175091901-e837d843-cc74-44da-959c-818c1402db52.png)
