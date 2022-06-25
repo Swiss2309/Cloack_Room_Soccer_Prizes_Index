@@ -57,7 +57,7 @@ Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br /><br />
 
 ![M2_Clubs_Score_Distribution](https://user-images.githubusercontent.com/107439799/175784010-88d17ce0-4e28-4d46-84c1-b8aed66dd613.png)
 
-As **PSG Big Fan** the above is my sought-after graph when the idea of this feature got incepted into my mind. Happy to have confirmed what I was projecting - right after **SENEGAL** won the Africa cup of Nations (represented by **Idrissa Gana** and **Abdou Diallo**). Wait a second - where's Real Madrid here ? Interesting - isn't it ? This is Data that speaks. <br /><br />
+As **PSG Big Fan** the above is my sought-after graph when the idea of this feature got incepted into my mind. Happy to have confirmed what I was projecting - right after **SENEGAL** won the Africa cup of Nations (represented by **Idrissa Gana** and **Abdou Diallo**). Pause in a second - where's **Real Madrid** here ? Oops - in the clouds perhaps - Interesting - isn't it ? This is Data that speaks - not me. <br /><br />
 
 
 ![M2_Nations_Score_Distribution](https://user-images.githubusercontent.com/107439799/175784019-37504748-da66-4955-a184-1757551fdb87.png)
