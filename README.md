@@ -37,6 +37,8 @@ ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical disce
 
 ![M1_Players_Score_Age](https://user-images.githubusercontent.com/107439799/175091747-0f2c7483-a27e-49b9-8316-43493b6156ff.png)
 
+Note that only G. PIQUE isnt't from Real Madrid from above list.
+
 ![M1_Clubs_Score_Age](https://user-images.githubusercontent.com/107439799/175090652-92b2ab35-8765-4a18-938b-4611eca9d1c5.png)
 
 ![M1_Nations_Score_Age](https://user-images.githubusercontent.com/107439799/175090934-ccfc188e-7543-49cd-a1b1-d2091a58b4e1.png)
