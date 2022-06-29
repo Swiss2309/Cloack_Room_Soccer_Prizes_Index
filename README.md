@@ -51,7 +51,7 @@ Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br /><br />
 
 <img width="33%" alt="33 first prominent players" src="https://user-images.githubusercontent.com/107439799/175769437-7efc3fee-5c2f-47ec-9a06-999eb569bf63.png"> <br /><br />
 
-And finally - aggregated on Club Level - The 10 most prominent Clubs are as follows : 
+Aggregated on Club Level - The 10 most prominent Clubs are as follows :  <br /><br />
 
 
 ![M1_Clubs_Prominence_Age](https://user-images.githubusercontent.com/107439799/176558058-b20fd981-ac79-48d4-8a2b-a6580364ed7c.png) <br /><br />
