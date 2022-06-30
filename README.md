@@ -31,7 +31,7 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 # Insights
 
-ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical discenring results (*To my taste*) : <br /><br />
+ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical discenring results (*To my taste*) : <br />
 
 **M1** <br /><br />
 
