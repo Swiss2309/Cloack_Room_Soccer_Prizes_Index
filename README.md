@@ -53,7 +53,7 @@ Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br />
 
 Aggregated on **Club** Level - The 10 most prominent Clubs are as follows :  <br />
 
-![M1_Clubs_Prominence](https://user-images.githubusercontent.com/107439799/176651051-acbce05d-bd14-4522-aea3-9bd4226b1b14.png) <br /><br />
+![M1_Clubs_Prominence](https://user-images.githubusercontent.com/107439799/176651051-acbce05d-bd14-4522-aea3-9bd4226b1b14.png) <br />
 
 And on **Nation's** : <br />
 
@@ -83,7 +83,7 @@ Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br />
 
 Aggregated on **Club** Level - The 10 most prominent Clubs are as follows :  <br />
 
-![M2_Clubs_Prominence](https://user-images.githubusercontent.com/107439799/176651967-66ce779d-007c-43e7-ad29-4ea0774e87b1.png) <br /><br />
+![M2_Clubs_Prominence](https://user-images.githubusercontent.com/107439799/176651967-66ce779d-007c-43e7-ad29-4ea0774e87b1.png) <br />
 
 And on **Nation's** : <br />
 
