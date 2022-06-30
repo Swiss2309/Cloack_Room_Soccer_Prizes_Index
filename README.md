@@ -33,7 +33,7 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical discenring results (*To my taste*) : <br />
 
-**M1** <br /><br />
+**M1** <br />
 
 ![M1_Players_Score_Age](https://user-images.githubusercontent.com/107439799/175091747-0f2c7483-a27e-49b9-8316-43493b6156ff.png)
 
@@ -60,7 +60,7 @@ And on **Nation's** : <br />
 ![M1_Nations_Prominence](https://user-images.githubusercontent.com/107439799/176651240-e671d0d2-94e4-40f8-8b63-906dedf81ced.png) <br /><br />
 
 
-**M2** <br /><br />
+**M2** <br />
 
 ![M2_Players_Score_Age](https://user-images.githubusercontent.com/107439799/175093076-52dd85df-e9ac-423f-89b2-b312b8a00a84.png)
 
