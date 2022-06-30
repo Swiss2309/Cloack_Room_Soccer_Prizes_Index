@@ -88,8 +88,9 @@ Aggregated on **Club** Level - The 10 most prominent Clubs are as follows :  <br
 
 ![M2_Clubs_Prominence](https://user-images.githubusercontent.com/107439799/176651967-66ce779d-007c-43e7-ad29-4ea0774e87b1.png) <br /><br />
 
-And on **Nation's** : ![M2_Nations_Prominence](https://user-images.githubusercontent.com/107439799/176652116-024eaf77-9277-4555-a3d6-7584ec163bbf.png)
+And on **Nation's** : <br />
 
+![M2_Nations_Prominence](https://user-images.githubusercontent.com/107439799/176652116-024eaf77-9277-4555-a3d6-7584ec163bbf.png)
 
  <br /><br />
 
