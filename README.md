@@ -49,7 +49,7 @@ Also - **MESSI** is 15th in the List, preceeded by **MODRIC** (*12th*), **VARANE
 
 Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br />
 
-<img width="33%" alt="33 first prominent players" src="https://user-images.githubusercontent.com/107439799/175769437-7efc3fee-5c2f-47ec-9a06-999eb569bf63.png"> <br /><br />
+<img width="33%" alt="33 first prominent players" src="https://user-images.githubusercontent.com/107439799/175769437-7efc3fee-5c2f-47ec-9a06-999eb569bf63.png"> <br />
 
 Aggregated on **Club** Level - The 10 most prominent Clubs are as follows :  <br />
 
@@ -78,7 +78,7 @@ Hello **Sadio et al !!**  <br /><br />
 
 Below is the 33 most prospect players (*33 = 3 * 11 - i.e 3 Teams*) <br />
 
-<img width="30%" alt="33 first prominent players" src="https://user-images.githubusercontent.com/107439799/175647347-416a35dc-112c-4236-92cf-2414907d3057.png">   <br /><br />
+<img width="30%" alt="33 first prominent players" src="https://user-images.githubusercontent.com/107439799/175647347-416a35dc-112c-4236-92cf-2414907d3057.png">   <br />
 
 
 Aggregated on **Club** Level - The 10 most prominent Clubs are as follows :  <br />
@@ -92,4 +92,6 @@ And on **Nation's** : <br />
  <br />
 
 
-[**Full results of both models M1 and M2**](https://www.dropbox.com/sh/e0disjr3p93ypk3/AABh5YPoOQoxr0RAqF20eSrsa/Cloack-Room%20Prizes%20Index?dl=0&subfolder_nav_tracking=1) <br />
+[**Full results of both models M1 and M2**](https://www.dropbox.com/sh/e0disjr3p93ypk3/AABh5YPoOQoxr0RAqF20eSrsa/Cloack-Room%20Prizes%20Index?dl=0&subfolder_nav_tracking=1) <br /><br />
+
+***To be continued...***
