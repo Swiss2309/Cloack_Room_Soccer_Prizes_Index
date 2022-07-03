@@ -25,7 +25,7 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 - every single player from the above clubs is being checked whether he'd won any of the covered Honours, and how many of each if applies - the result is persisted in an observation (*i.o.w a record with the Player as a driver of the structured Data Points Model*), along with his MetaData; <br /><br />
 - if the checked player hadn't won any - he's not persisted; <br /><br />
-- the records are saved in a CSV file (*that I obviously won't share with you; neither the above-mentioned formulas btw*) - in Total 161 players made it to the CSV; respresenting 13 Nations. <br /><br />
+- the records are saved in a CSV file - in Total 161 players made it to the CSV; respresenting 13 Nations. <br /><br />
 - a sample Custom-Weights-2-Models (*M1 and M2*) coefficients for each of the Titles is being assigned taking into account the complexity of the competition - Sorry Sadio and demonyms - (**Coefs.csv** *file available in the arborescence*). Note that the **M2** differs from **M1** only by annihilating the Champions's League Title - so assigning **0** to it. This **M2** corresponds then to only **continental prizes** ; <br /><br />    
 - Off we go with running the code and obtaining the different results for both models.
 
@@ -39,7 +39,7 @@ ABRACADABRA - To the Football Hard-Core Fans - Hereunder the most sensical germa
 
 Note that only **G. PIQUE** hadn't played for **Real Madrid** from above list. <br /><br />
 
-Also - **MESSI** is 15th in the List, preceeded by **MODRIC** (*12th*), **VARANE** (*13th*), and **BUSQUETS** (*14th*) - surprisingly - or not; whereas **CR7** is 3rd. This is called **Legacy**. Period. (*Addendum : MESSI'd lost 10 finals across all competitions; of which 4 from our covered Index*). <br /><br />
+Also - **MESSI** is 15th in the List, preceeded by **MODRIC** (*12th*), **VARANE** (*13th*), and **BUSQUETS** (*14th*) - surprisingly - or not; whereas **CR7** is 3rd. This is called **Legacy**. (*Addendum : MESSI'd lost 10 finals across all competitions; of which 4 from our covered Index*). <br /><br />
 
 ![M1_Clubs_Score_Distribution](https://user-images.githubusercontent.com/107439799/175783072-0048771d-0289-44d2-bb85-04b018a39287.png)
 
@@ -67,7 +67,7 @@ And on **Nation's** : <br />
 ![M2_Clubs_Score_Distribution](https://user-images.githubusercontent.com/107439799/175784010-88d17ce0-4e28-4d46-84c1-b8aed66dd613.png)
 
 As **PSG Big Fan** the above is my sought-after graph when the idea of this feature got incepted into my mind. Happy to have confirmed what I was projecting - right after **SENEGAL** won the Africa cup of Nations (represented by **Idrissa Gana** and **Abdou Diallo**). <br />
-Pause in a second - where's **Real Madrid** here ? Oops - in the clouds perhaps - Interesting - isn't it ? They are in the 15th rank in effect on this pure Nations continental Level - This is Data that speaks - not me (*thanks to me rather*). <br /><br />
+Pause in a second - where's **Real Madrid** here ? Oops - in the clouds perhaps - Interesting - isn't it ? They are in the 15th rank in effect on this pure Nations Continental Level - This is Data speaking. <br /><br />
 
 
 ![M2_Nations_Score_Distribution](https://user-images.githubusercontent.com/107439799/175784019-37504748-da66-4955-a184-1757551fdb87.png)
