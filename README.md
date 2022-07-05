@@ -6,7 +6,7 @@ ii- <ins> Clubs for which they play </ins>, and <br /><br />
 iii- <ins> Nations for which they play </ins>. <br /><br />
 
 
-Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. 
+Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. <br />
 
 <img width="560" alt="Screenshot 2022-07-05 at 2 20 34 pm" src="https://user-images.githubusercontent.com/107439799/177326333-d7a06fe1-a20d-4455-8ee3-2d0654899c9a.png">
 
