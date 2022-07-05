@@ -6,7 +6,10 @@ ii- <ins> Clubs for which they play </ins>, and <br /><br />
 iii- <ins> Nations for which they play </ins>. <br /><br />
 
 
-Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*. 
+Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*.  <br />
+
+Formula pattern :  <img width="320" alt="Screenshot 2022-07-05 at 2 16 29 pm" src="https://user-images.githubusercontent.com/107439799/177325529-195a5b32-ebd1-46db-88ef-bdfaecf43b96.png">  <br />
+
 
 Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays*) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second - that had not the same constellation of titles neither the same age - so un-biaised in nature - c.f the Table just underneath the Prominence plot)
 
