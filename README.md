@@ -8,8 +8,9 @@ iii- <ins> Nations for which they play </ins>. <br /><br />
 
 Moreover it provides a ***"Prominence Score"*** of the collected players based on a formula (Prominence is a function with *"Prizes Index"* and *"Age"* in the nomiator and *"Age"* squared in the denominator - as a probabilistic pattern or expression with additional factors in the formula and associated variables as well)  that uses both their *"Age"* and aforementioned Palmares a.k.a *"Prizes Index"*.  <br />
 
-Formula pattern :  <img width="320" alt="Screenshot 2022-07-05 at 2 16 29 pm" src="https://user-images.githubusercontent.com/107439799/177325529-195a5b32-ebd1-46db-88ef-bdfaecf43b96.png">  <br />
+<img width="406" alt="Screenshot 2022-07-05 at 2 20 34 pm" src="https://user-images.githubusercontent.com/107439799/177326333-d7a06fe1-a20d-4455-8ee3-2d0654899c9a.png">
 
+<br />
 
 Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays*) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second - that had not the same constellation of titles neither the same age - so un-biaised in nature - c.f the Table just underneath the Prominence plot)
 
@@ -75,7 +76,7 @@ Pause in a second - where's **Real Madrid** here ? Oops - in the clouds perhaps 
 
 ![M2_Nations_Score_Distribution](https://user-images.githubusercontent.com/107439799/175784019-37504748-da66-4955-a184-1757551fdb87.png)
 
-Hello **Sadio et al !!**  *MAMA AFRICA !!* <br /><br />
+Hello **Sadio et al !!** <br /><br />
 
 ![M2_Players_Prom_Age](https://user-images.githubusercontent.com/107439799/175093297-d3fa12a7-2a67-4383-97a6-02fa612e3ce4.png)
 
