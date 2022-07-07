@@ -28,7 +28,7 @@ P.S : None of the collected players have won an Asian Nations Cup, hence the abs
 
 - every single player from the above clubs is being checked whether he'd won any of the covered Honours, and how many of each if applies - the result is persisted in an observation (*i.o.w a record with the Player as a driver of the structured Data Points Model*), along with his MetaData; <br /><br />
 - if the checked player hadn't won any - he's not persisted; <br /><br />
-- the records are saved in a CSV file - in Total 161 players made it to the CSV; respresenting 13 Nations. <br /><br />
+- the records are saved in a CSV file - in Total 161 players made it to the CSV; respresenting 30 Nations. <br /><br />
 - a sample Custom-Weights-2-Models (*M1 and M2*) coefficients for each of the Titles is being assigned taking into account the complexity of the competition - Sorry Sadio and demonyms - (**Coefs.csv** *file available in the arborescence and below its content*). 
 
 <img width="496" alt="Screenshot 2022-07-05 at 3 02 36 pm" src="https://user-images.githubusercontent.com/107439799/177334283-7828a233-fb0f-47db-864a-e221f1fcd8ca.png">
