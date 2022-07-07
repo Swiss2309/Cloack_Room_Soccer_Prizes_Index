@@ -10,7 +10,7 @@ Moreover it provides a ***"Prominence Score"*** of the collected players based o
 
 <img width="560" alt="Screenshot 2022-07-05 at 2 20 34 pm" src="https://user-images.githubusercontent.com/107439799/177326333-d7a06fe1-a20d-4455-8ee3-2d0654899c9a.png">
 
-Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays - but with substance*) have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second - that had not the same constellation of titles neither the same age - so un-biaised in nature - c.f the Table just underneath the Prominence plot)
+Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays - but with substance*) - specifically hyper-parameter tuning have been applied to the function to opimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second - that had not the same constellation of titles neither the same age - so un-biaised in nature - c.f the Table just underneath the Prominence plot)
 
 
 # Scope and source of collected Data 
