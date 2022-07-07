@@ -1,7 +1,7 @@
 # Abstract
 
 Python-written capability classifying - on different levels of Metrics : <br /> <br />
-i- <ins> Active senior professional (Men) football players </ins> (*reference is season 2021/2022 at its end post Champions's League Final - not taking into account their retirement decision neither transfer for the next season*)  having won at least one Prestigious Major Title (*Chamipons's League, Nations World Cup, Nations Traditional European Championship, Nations Copa América (excluding Copa América Centenario), and Africa Cup of Nations*) <br /><br />
+i- <ins> Active senior professional (Men) football players </ins> (*reference is season 2021/2022 at its end post Champions's League Final - not taking into account their retirement decision neither transfer for the next season*)  having won at least one Prestigious Major Title (*Champions's League, Nations World Cup, Nations Traditional European Championship, Nations Copa América (excluding Copa América Centenario), and Africa Cup of Nations*) <br /><br />
 ii- <ins> Clubs for which they play </ins>, and <br /><br />
 iii- <ins> Nations for which they play </ins>. <br /><br />
 
