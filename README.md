@@ -102,6 +102,6 @@ And on **Nation's** : <br />
  <br />
 
 
-[**Full results of both models M1 and M2**](https://www.dropbox.com/sh/e0disjr3p93ypk3/AABh5YPoOQoxr0RAqF20eSrsa/Cloack-Room%20Prizes%20Index?dl=0&subfolder_nav_tracking=1) <br /><br />
+[**Full results of both models M1 and M2**](https://bit.ly/3P6xYAb) <br /><br />
 
 ***To be continued...***
