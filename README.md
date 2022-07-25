@@ -67,8 +67,6 @@ And on **Nation's** : <br />
 
 ![M1_Nations_Prominence](https://user-images.githubusercontent.com/107439799/176651240-e671d0d2-94e4-40f8-8b63-906dedf81ced.png) <br /><br />
 
-All the Best **Andriy** to you and to your country(wo)men !! Thanks to you your country is topping !! Bravo !! <br /><br />
-
 
 **M2** <br />
 
