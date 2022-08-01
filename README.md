@@ -10,7 +10,7 @@ Moreover it provides a ***"Prominence Score"*** of the collected players based o
 
 <img width="560" alt="Screenshot 2022-07-05 at 2 20 34 pm" src="https://user-images.githubusercontent.com/107439799/177326333-d7a06fe1-a20d-4455-8ee3-2d0654899c9a.png">
 
-Machine Learning techniques (*I know it can be simplified in saying - Statistical i/o ML - but I need to show off a bit like everyone else nowadays - but with substance*) - specifically hyper-parameter tuning have been applied to the function to optimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second - that had not the same constellation of titles neither the same age - so un-biaised in nature - c.f the Table just underneath the Prominence plot.
+Statistical hyper-parameter tuning have been applied to the function to optimize it so that the final prominence is having a very low variance; i.e ˜ 1/1000 between the first and the second - that had not the same constellation of titles neither the same age - so un-biaised in nature - c.f the Table just underneath the Prominence plot.
 
 
 # Scope and source of collected Data 
@@ -21,7 +21,6 @@ Machine Learning techniques (*I know it can be simplified in saying - Statistica
 
 
 P.S : None of the collected players have won an Asian Nations Cup, hence the absence of the Title from the analysis.
-
 
 
 # Approach
@@ -74,11 +73,11 @@ And on **Nation's** : <br />
 
 ![M2_Clubs_Score_Distribution](https://user-images.githubusercontent.com/107439799/175784010-88d17ce0-4e28-4d46-84c1-b8aed66dd613.png)
 
-As **PSG Big Fan** the above is my sought-after graph when the idea of this feature got incepted into my mind. Happy to have confirmed what I was projecting - right after **SENEGAL** won the Africa cup of Nations (represented by **Idrissa Gana** and **Abdou Diallo**). <br />
-Pause in a second - where's **Real Madrid** here ? Oops - in the clouds perhaps - Interesting - isn't it ? They are in the 15th rank in effect on this pure Nations Continental Level - This is Data speaking. <br /><br />
+Pause in a second - where's **Real Madrid** here ? Interesting - isn't it ? They are in the 15th rank in effect on this pure Nations Continental Level - This is Data speaking. <br /><br />
 
 
 ![M2_Nations_Score_Distribution](https://user-images.githubusercontent.com/107439799/175784019-37504748-da66-4955-a184-1757551fdb87.png)
+
 
 Hello **Sadio et al !!** <br /><br />
 
