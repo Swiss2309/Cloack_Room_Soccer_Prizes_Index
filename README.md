@@ -15,7 +15,7 @@ Statistical hyper-parameter tuning have been applied to the function to optimize
 
 # Scope and source of collected Data 
 
-**2021/2022 season** (*2nd Half; i.e post-winter Transfer Window*) following squads : **PSG, OL, LOSC, ASM, OM, MCY, LIV, CHE, MU, ARS, TOT, RM, FCB, ATM, BYM, BVB, BL, JUV, MIL, INT, NAP, and ATL** (*ATALANTA*).         
+**2021/2022 season** (*2nd Half; i.e post-winter Transfer Window*) following squads : **PSG, OL, LOSC, ASM, OM, MCY, LIV, CHE, MU, ARS, TOT, RM, FCB, ATM, BYM, BVB, BL, JUV, MIL, INT, NAP, and ATL** (*ATALANTA, not Atlético, already mentioned under ATM code*).         
 
 <ins>Data Source</ins> = **Wikipedia English**.
 
