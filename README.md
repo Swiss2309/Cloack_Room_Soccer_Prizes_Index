@@ -101,4 +101,4 @@ And on **Nation's** : <br />
 
 [**Full results of both models M1 and M2**](https://bit.ly/3P6xYAb) <br /><br />
 
-***To be continued (Or not)...***
+***To be continued (or not)...***
